@@ -1,6 +1,6 @@
 # Sales_forecasting-_and_heart_disease_prediction
 
-##1. Time Series Forecasting: Sales Prediction
+#1. Time Series Forecasting: Sales Prediction
 
 Using a daily sales dataset, I explored ARIMA and SARIMA models to forecast future values. After testing traditional models, I implemented:
 
@@ -12,7 +12,7 @@ Using a daily sales dataset, I explored ARIMA and SARIMA models to forecast futu
   
 - Visualized historical vs predicted sales to assess model performance
   
-##2. Logistic Regression: Heart Disease Classification
+#2. Logistic Regression: Heart Disease Classification
 
 I also built a logistic regression model to classify patients based on features like age, cholesterol, BP, and smoking status.
 
